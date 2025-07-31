@@ -1,2 +1,1 @@
-# first-repo
-creating first repo
+CI/CD project
